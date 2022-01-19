@@ -10,3 +10,5 @@ gitgit add .
 git add .
 git commit -m " "
 git push upstream
+git rebase -i HEAD~#
+git amendgit
