@@ -12,3 +12,5 @@ git commit -m " "
 git push upstream
 git rebase -i HEAD~#
 git amendgit
+git init
+git -r
